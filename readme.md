@@ -272,7 +272,7 @@ npm run lint
 
 ## 📝 License
 
-This project is licensed under the MIT License.
+This project is part of the academic curriculum at UMass Dartmouth.
 
 ## 👥 Team
 
